@@ -1,0 +1,13 @@
+body {
+    background: #006e87;
+    background: -webkit-linear-gradient(to right, #e5d8d4, #3aa1f0);
+    background: linear-gradient(to right, #eddfda, #409ae3);
+}
+
+/* #dashboard h1 {
+    color: #ccc;
+    text-align: center;
+    border: 2px dashed #ccc;
+    margin-top: 0;
+    padding: 10px;
+} */
